@@ -55,5 +55,8 @@ Once you get the basic single player game working, you can start adding other fe
 
 Samples of Student Work 
 -----------------------
-#### (use the left and right mouse buttons to control the light cycle)   
-[Marc](https://trinket.io/embed/python/df5a0e966e?outputOnly=true&runOption=run&start=result)   
+[Audrey](https://editor.p5js.org/AudreyLau8/present/2MO8u9XOd)   
+[Damian](https://editor.p5js.org/dabogdon/present/_HMDfqNMf)   
+[Leah](https://editor.p5js.org/Leah_Cochrum/present/2bZGGxNsJ)   
+[Irisa](https://editor.p5js.org/irchu1/full/cF25czEgn)   
+[Elliot](https://editor.p5js.org/elchen/present/VBg3e1IAJ)   
